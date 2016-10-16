@@ -1,24 +1,6 @@
-# README
+# Playing with GraphQL in Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Playing with the tutorial [GraphQL in Ruby on Rails] by [Mozgin Vladimir].
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[graphql in ruby on rails]: http://syndicode.co/2016/06/03/graphql-in-ruby-on-rails/
+[mozgin vladimir]: http://syndicode.co/author/mozgin/
